@@ -114,12 +114,11 @@ body {
 }
 
 .app-sidebar-hidden {
-  position: absolute;
+  background-color: white;
   right: -30%;
   width: 30%;
   height: 100%;
   padding-top: 80px;
-  background-color: #f8f8f8;
   border-left: 1px solid #e7e7e7;
   transition: right .3s ease-in-out;
 }
