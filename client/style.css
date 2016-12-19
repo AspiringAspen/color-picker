@@ -277,6 +277,10 @@ body {
   padding-right:0px;
 }
 
+#profile h3 {
+  text-align: center;
+}
+
 .palette {
   padding:0px;
   cursor:default;
