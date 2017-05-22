@@ -28,6 +28,7 @@ class ColorFamilyInfoView extends React.Component {
     var styles = {
       borderColor1: {
         margin: '1px',
+        padding: '5px 11px',
         borderWidth: '2px',
         borderColor: '#' + colors.primary
       },
@@ -38,6 +39,7 @@ class ColorFamilyInfoView extends React.Component {
 
       borderColor2: {
         margin: '1px',
+        padding: '5px 11px',
         borderWidth: '2px',
         borderColor: '#' + colors.secondary1
       },
@@ -48,6 +50,7 @@ class ColorFamilyInfoView extends React.Component {
 
       borderColor3: {
         margin: '1px',
+        padding: '5px 11px',
         borderWidth: '2px',
         borderColor: '#' + colors.secondary2
       },
@@ -58,6 +61,7 @@ class ColorFamilyInfoView extends React.Component {
 
       borderColor4: {
         margin: '1px',
+        padding: '5px 11px',
         borderWidth: '2px',
         borderColor: '#' + colors.tertiary1
       },
@@ -68,6 +72,7 @@ class ColorFamilyInfoView extends React.Component {
 
       borderColor5: {
         margin: '1px',
+        padding: '5px 11px',
         borderWidth: '2px',
         borderColor: '#' + colors.tertiary2
       },
